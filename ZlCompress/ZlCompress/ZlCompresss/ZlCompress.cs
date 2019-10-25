@@ -77,7 +77,7 @@ namespace ZlCompress.ZlCompresss
         private static bool ReadBit(byte[] compBytes, ref int index, ref int bitIndex)
         {
             var left = 7 - bitIndex;
-            var bit = ((((byte)(compBytes[index] << left))) >> (bitIndex + left)) == 1;
+            var bit = ((((byte)(compBytes[index] << left))) >> 7) == 1;
             bitIndex--;
             if (bitIndex < 0)
             {
