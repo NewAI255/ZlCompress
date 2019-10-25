@@ -1,4 +1,3 @@
-D:\My\Software\ZlCompress\ZlCompress\ZlCompress\obj\Debug\ZlCompress.csprojResolveAssemblyReference.cache
 D:\My\Software\ZlCompress\ZlCompress\ZlCompress\obj\Debug\ZlCompress.MainForm.resources
 D:\My\Software\ZlCompress\ZlCompress\ZlCompress\obj\Debug\ZlCompress.Properties.Resources.resources
 D:\My\Software\ZlCompress\ZlCompress\ZlCompress\obj\Debug\ZlCompress.csproj.GenerateResource.Cache
